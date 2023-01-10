@@ -4,7 +4,7 @@ Please note before that some configurations still need to be adjusted as this po
 
 The rules are based on the Aqua Network Connectivity Requirements (Ports) and can be 
 
-Retrieved from this link: https://docs.aquasec.com/v2022.4/platform/aqua-environment-and-configuration/network-connectivity-requirements-ports 
+Retrieved from this link: [https://docs.aquasec.com/v2022.4/platform/aqua-environment-and-configuration/network-connectivity-requirements-ports/] 
 
 The policies were configured with egress traffic to Kubernetes DNS to resolve DNS requests. 
 
